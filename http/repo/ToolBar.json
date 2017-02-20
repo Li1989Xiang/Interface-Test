@@ -1,0 +1,46 @@
+{
+	"oBtnPTJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://left_text"
+		]
+	},
+
+	"oBtnRZRQ": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://right_text"
+		]
+	},
+
+	"oBtnJY": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"xpath:////android.widget.TextView[@text='交易']"
+		]
+	},
+
+	"oBtnBack": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://abs__home_svgicon"
+		]
+	},
+
+	"oBtnMsg": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://SureButton"
+		]
+	}
+}

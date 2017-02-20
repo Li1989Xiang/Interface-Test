@@ -1,0 +1,82 @@
+{
+	"oBtnZCCX": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnRZMR": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='融资买入']"
+		]
+	},
+
+	"oBtnRQMC": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='融券卖出']"
+		]
+	},
+
+	"oBtnDBPMR": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='担保物买入']"
+		]
+	},
+
+	"oBtnDBPMC": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='担保物卖出']"
+		]
+	},
+
+	"oBtnDBPHZ": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"id://dbphz"
+		]
+	},
+
+	"oBtnHK": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='还款']"
+		]
+	},
+
+	"oBtnHQ": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='还券']"
+		]
+	},
+
+	"oBtnYZZZ": 
+	{
+		"in": "WEBVIEW_RZRQ",
+		"bys": 
+		[
+			"xpath:////label[text()='银证转账']"
+		]
+	}
+}

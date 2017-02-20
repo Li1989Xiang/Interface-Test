@@ -1,0 +1,100 @@
+{
+	"oBtnMQHK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='卖券还款']"
+		]
+	},
+
+	"oBtnXJHK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='现金还款']"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oBtnMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(text(), '卖出')]"
+		]
+	},
+
+	"oBtnHK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//button[contains(@class, 'btn-sell')])[2]"
+		]
+	},
+
+	"oEditMoney": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://hkje"
+		]
+	},
+
+	"oTextKHZJ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zjkys"
+		]
+	},
+
+	"oTextXHKE": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zfzjehj"
+		]
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"oTitleRMB": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////li[text()='人民币']"
+		]
+	},
+
+	"oTitleHKD": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////li[text()='港币']"
+		]
+	},
+
+	"oTitleUSD": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////li[text()='美元']"
+		]
+	},
+
+	"oTextKQ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////span[text()='可取']/following-sibling::span[1]"
+		]
+	},
+
+	"oTextKY": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////span[text()='可用']/following-sibling::span[1]"
+		]
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"oTitleYZZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='银转证']"
+		]
+	},
+
+	"oTitleZZY": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='证转银']"
+		]
+	},
+
+	"oMenuBank": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////em[text()='转出银行' or text()='转入银行']"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://amount"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////input[@type='password']"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://btnYzzz"
+		]
+	}
+}

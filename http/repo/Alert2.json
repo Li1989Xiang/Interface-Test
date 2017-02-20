@@ -1,0 +1,64 @@
+{
+	"oTextConfirms": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='kmc-alertDialog-content']//label"
+		]
+	},
+
+	"oBtnConfirmOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='确定']"
+		]
+	},
+
+	"oTextMsgSuccess": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//div[@class='kmc-alertDialog-content'])[last()]//label"
+		]
+	},
+
+	"oTextLiMsgSuccess": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//div[@class='kmc-alertDialog-content'])[last()]//li[@class='content-center']"
+		]
+	},
+
+	"oTitleMsgFail": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////h4[@class='modal-title']"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//div[@class='kmc-alertDialog']//button[text()='确定'])[last()]"
+		]
+	},
+
+	"oTextMsgFail": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-body']//td"
+		]
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"oBtnWXXJRG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='网下现金认购']"
+		]
+	},
+
+	"oBtnWXGPRG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='网下股票认购']"
+		]
+	},
+
+	"oBtnSG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='ETF申购']"
+		]
+	},
+
+	"oBtnSH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='ETF赎回']"
+		]
+	}
+}

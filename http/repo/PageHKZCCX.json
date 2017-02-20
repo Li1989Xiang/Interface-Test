@@ -1,0 +1,28 @@
+{
+	"oTextKQ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='可    取']/../following-sibling::div[1]/label"
+		]
+	},
+
+	"oTextKY": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='可    用']/../following-sibling::div[1]/label"
+		]
+	},
+
+	"oImgLoad": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='请稍候...']"
+		]
+	}
+}

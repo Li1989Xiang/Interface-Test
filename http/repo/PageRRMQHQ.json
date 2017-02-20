@@ -1,0 +1,56 @@
+{
+	"oBtnMQHQ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='买券还券']"
+		]
+	},
+
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(@class, 'btn-buy')]"
+		]
+	}
+}

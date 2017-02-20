@@ -1,0 +1,55 @@
+{
+	"oBtnPT2XY": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(text(),'普通转信用')]"
+		]
+	},
+
+	"oBtnXY2PT": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(text(),'信用转普通')]"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oBtnSubmit": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='划转']"
+		]
+	}
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<application xmlns="http://up.light.mobile"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://up.light.mobile view.xsd">
+
+	<!-- start from application: 0 -->
+	<loginGroupDepth>2</loginGroupDepth>
+
+	<view name="交易" repo="ToolBar.oBtnJY" handler="mobile.page.handler.WaitStart">
+		<view name="普通交易" repo="ToolBar.oBtnPTJY">
+			<view name="股票买入" repo="PageMainRoot.oBtnGPMR" checklogin="true"/>
+			<view name="股票卖出" repo="PageMainRoot.oBtnGPMC" checklogin="true"/>
+			<view name="资产查询" repo="PageMainRoot.oBtnZCCX" checklogin="true"/>
+			<view name="银证转账" repo="PageMainRoot.oBtnYZZZ" checklogin="true">
+				<view name="资金调度" repo="PageMainRoot.oBtnZJDD" />
+			</view>
+
+			<view name="开放式基金" repo="PageMainRoot.oBtnJJ" checklogin="true">
+				<view name="基金认购" repo="PageMainJJ.oBtnRG" />
+				<view name="基金申购" repo="PageMainJJ.oBtnSG" />
+				<view name="基金赎回" repo="PageMainJJ.oBtnSH" />
+				<view name="基金定投" repo="PageMainJJ.oBtnDT" />
+				<view name="基金转换" repo="PageMainJJ.oBtnZH" />
+				<view name="分红设置" repo="PageMainJJ.oBtnFHSZ" />
+			</view>
+
+			<view name="ETF基金" repo="PageMainRoot.oBtnETF" checklogin="true">
+				<view name="网下现金认购" repo="PageMainETF.oBtnWXXJRG" />
+				<view name="网下股票认购" repo="PageMainETF.oBtnWXGPRG" />
+				<view name="ETF申购" repo="PageMainETF.oBtnSG" />
+				<view name="ETF赎回" repo="PageMainETF.oBtnSH" />
+			</view>
+
+			<view name="LOF基金" repo="PageMainRoot.oBtnLOF" checklogin="true">
+				<view name="LOF基金申购" repo="PageMainLOF.oBtnSG" />
+				<view name="LOF基金赎回" repo="PageMainLOF.oBtnSH" />
+				<view name="LOF基金认购" repo="PageMainLOF.oBtnRG" />
+			</view>
+
+			<view name="港股通" repo="PageMainRoot.oBtnGGT" checklogin="true" handler="mobile.page.handler.WaitLoad">
+				<view name="港股通买入" repo="PageMainHK.oBtnMR"  />
+				<view name="港股通卖出" repo="PageMainHK.oBtnMC" />
+				<view name="港股通资产查询" repo="PageMainHK.oBtnZCCX" />
+				<view name="回转资金" repo="PageMainHK.oBtnHZZJ" />
+				<view name="负债查询" repo="PageMainHK.oBtnFZCX" />
+				<view name="额度查询" repo="PageMainHK.oBtnEDCX" />
+				<view name="汇率查询" repo="PageMainHK.oBtnHLCX" />
+				<view name="未交收明细查询" repo="PageMainHK.oBtnWJSMXCX" />
+				<view name="标的证券" repo="PageMainHK.oBtnBDZQ" />
+				<view name="公司行为" repo="PageMainHK.oBtnGSXW" />
+				<view name="投票" repo="PageMainHK.oBtnTP" />
+			</view>
+
+			<view name="更多" repo="PageMainRoot.oBtnGengDuo" >
+				<view name="股份转让" repo="PageMainGengDuo.oBtnGFZR" checklogin="true">
+					<view name="定价买入" repo="PageMainGFZR.oBtnDJMR" />
+					<view name="定价卖出" repo="PageMainGFZR.oBtnDJMC" />
+					<view name="成交确认买入" repo="PageMainGFZR.oBtnCJQRMR" />
+					<view name="成交确认卖出" repo="PageMainGFZR.oBtnCJQRMC" />
+					<view name="互报确认买入" repo="PageMainGFZR.oBtnHBQRMR" />
+					<view name="互报确认卖出" repo="PageMainGFZR.oBtnHBQRMC" />
+					<view name="做市买入" repo="PageMainGFZR.oBtnZSMR" />
+					<view name="做市卖出" repo="PageMainGFZR.oBtnZSMC" />
+					<view name="限价买入" repo="PageMainGFZR.oBtnZJMR" />
+					<view name="限价卖出" repo="PageMainGFZR.oBtnZJMC" />
+			 	</view>
+			</view>	
+		</view>
+
+		<view name="融资融券" repo="ToolBar.oBtnRZRQ" >
+			<view name="融资融券资产查询" repo="PageMainRR.oBtnZCCX" checklogin="true"/>
+			<view name="融资买入" repo="PageMainRR.oBtnRZMR" checklogin="true" />
+			<view name="融券卖出" repo="PageMainRR.oBtnRQMC" checklogin="true"/>
+			<view name="担保品买入" repo="PageMainRR.oBtnDBPMR" checklogin="true"/>
+			<view name="担保品卖出" repo="PageMainRR.oBtnDBPMC" checklogin="true"/>
+			<view name="担保品划转" repo="PageMainRR.oBtnDBPHZ" checklogin="true"/>
+			<view name="还款" repo="PageMainRR.oBtnHK" checklogin="true"/>
+			<view name="还券" repo="PageMainRR.oBtnHQ" checklogin="true"/>
+			<view name="融资融券银证转账" repo="PageMainRR.oBtnYZZZ" checklogin="true"/>
+		</view>
+	</view>
+</application>

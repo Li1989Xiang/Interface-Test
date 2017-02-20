@@ -1,0 +1,109 @@
+{
+	"oImgLoad": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='loading-div']"
+		]
+	},
+
+	"oBtnMR": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='买入']"
+		]
+	},
+
+	"oBtnMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='卖出']"
+		]
+	},
+
+	"oBtnZCCX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnHZZJ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='回转资金']"
+		]
+	},
+
+	"oBtnFZCX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='负债查询']"
+		]
+	},
+
+	"oBtnEDCX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='额度查询']"
+		]
+	},
+
+	"oBtnHLCX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='汇率查询']"
+		]
+	},
+
+	"oBtnWJSMXCX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='未交收明细查询']"
+		]
+	},
+
+	"oBtnBDZQ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='标的证券查询']"
+		]
+	},
+
+	"oBtnGSXW": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='公司行为']"
+		]
+	},
+
+	"oBtnTP": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='投票']"
+		]
+	}
+}

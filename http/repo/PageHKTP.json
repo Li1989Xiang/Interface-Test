@@ -1,0 +1,73 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oEditGGBH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://ggbh"
+		]
+	},
+
+	"oEditYABH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://yabh"
+		]
+	},
+
+	"oEditZCSL": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zcsl"
+		]
+	},
+
+	"oEditFDSL": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://fdsl"
+		]
+	},
+
+	"oEditQQSL": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://qqsl"
+		]
+	},
+
+	"oBtnSubmit": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='提交']"
+		]
+	}
+}

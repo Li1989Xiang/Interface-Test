@@ -1,0 +1,152 @@
+{
+  "$schema": "http://uplight/json/TestA00Login#",
+  "type": "object",
+  "properties": {
+    "cljg": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "enum":[
+            	"123123"
+            ]
+          },
+          "message": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "code",
+          "message"
+        ]
+      }
+    },
+    "dlxx": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "fxts": {
+            "type": "string"
+          },
+          "gtmc": {
+            "type": "string"
+          },
+          "khbz": {
+            "type": "string"
+          },
+          "khdm": {
+            "type": "string"
+          },
+          "khsx": {
+            "type": "string"
+          },
+          "khxm": {
+            "type": "string"
+          },
+          "token": {
+            "type": "string"
+          },
+          "wtrq": {
+            "type": "string"
+          },
+          "xtrq": {
+            "type": "string"
+          },
+          "xtzt": {
+            "type": "string"
+          },
+          "xtztsm": {
+            "type": "string"
+          },
+          "yhdm": {
+            "type": "string"
+          },
+          "yszjzh": {
+            "type": "string"
+          },
+          "yybdm": {
+            "type": "string"
+          },
+          "yybjc": {
+            "type": "string"
+          },
+          "zjdlrq": {
+            "type": "string"
+          },
+          "zjdlsj": {
+            "type": "string"
+          },
+          "zjzh": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "fxts",
+          "gtmc",
+          "khbz",
+          "khdm",
+          "khsx",
+          "khxm",
+          "token",
+          "wtrq",
+          "xtrq",
+          "xtzt",
+          "xtztsm",
+          "yhdm",
+          "yszjzh",
+          "yybdm",
+          "yybjc",
+          "zjdlrq",
+          "zjdlsj",
+          "zjzh"
+        ]
+      }
+    },
+    "gdlb": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "gddm": {
+            "type": "string"
+          },
+          "jysdm": {
+            "type": "string"
+          },
+          "jysjc": {
+            "type": "string"
+          },
+          "zcbz": {
+            "type": "string"
+          },
+          "zcbzsm": {
+            "type": "string"
+          },
+          "zdbz": {
+            "type": "string"
+          },
+          "zdbzsm": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "gddm",
+          "jysdm",
+          "jysjc",
+          "zcbz",
+          "zcbzsm",
+          "zdbz",
+          "zdbzsm"
+        ]
+      }
+    }
+  },
+  "required": [
+    "cljg",
+    "dlxx",
+    "gdlb"
+  ]
+}

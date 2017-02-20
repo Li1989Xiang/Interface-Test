@@ -1,0 +1,64 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://volume"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnBuyorSell": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='btn-bargain']/button"
+		]
+	},
+
+	"oMenuWTFS": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//div[@class='btn-group select'])[last()]/button"
+		]
+	},
+
+	"oListWTFSes": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//ul[@class='dropdown-menu active'])[last()]/li"
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"oBtnSG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='基金申购']"
+		]
+	},
+
+	"oBtnRG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='基金认购']"
+		]
+	},
+
+	"oBtnSH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='基金赎回']"
+		]
+	}
+}

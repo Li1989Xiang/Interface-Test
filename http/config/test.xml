@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MobileSuite">
+	<listeners>
+		<listener class-name="mobile.controller.Controller" />
+		<listener class-name="mobile.controller.TestListenerImpl" />
+	</listeners>
+
+	<test name="MobileTest">
+		<classes>
+			<class name="test.TestA00Login" />
+		</classes>
+	</test>
+</suite>

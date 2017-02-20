@@ -1,0 +1,11 @@
+{
+	"oBtnGFZR": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='股份转让']"
+		]
+	}
+	
+}

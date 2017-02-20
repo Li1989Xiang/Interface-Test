@@ -1,0 +1,145 @@
+{
+	"oTextDT": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////a[contains(text(), '基金定投')]"
+		]
+	},
+
+	"oTextDS": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////a[contains(text(), '基金定赎')]"
+		]
+	},
+
+	"oBtnSQ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='emptyHint']/img"
+		]
+	},
+
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='d-zqmc']/div[2]/label"
+		]
+	},
+
+	"oEditNumber": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnTime": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='d-jyrq']/div[2]/button"
+		]
+	},
+
+	"oTextMonth": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='d-jyrq']/div[2]/ul/div[1]/div[1]"
+		]
+	},
+
+	"oTextWeek": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='d-jyrq']/div[2]/ul/div[1]/div[2]"
+		]
+	},
+
+	"oMenuMonth": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[contains(@class, 'day')]/li"
+		]
+	},
+
+	"oMenuWeek": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[contains(@class, 'week')]/li"
+		]
+	},
+
+	"oEditBeginTime": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://ksrq"
+		]
+	},
+
+	"oEditEndTime": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zzrq"
+		]
+	},
+
+	"oTextJEBZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='d-zebs']/div[2]/button"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(@class, 'btn-buy')]"
+		]
+	},
+
+	"oMsgRisk": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////td[text()='基金风险等级与客户等级不匹配,你是否要继续进行交易?']"
+		]
+	}
+}

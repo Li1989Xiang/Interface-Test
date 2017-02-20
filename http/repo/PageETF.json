@@ -1,0 +1,76 @@
+{
+	"oEditETFDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//input[contains(@id, 'zqdm-input-')])[1]"
+		]
+	},
+
+	"oEditCFGDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//input[contains(@id, 'zqdm-input-')])[2]"
+		]
+	},
+
+	"oTextETFMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//p[@class='kmc-zqdm-zqmc'])[1]"
+		]
+	},
+	
+	"oEditCFGMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//p[@class='kmc-zqdm-zqmc'])[2]"
+		]
+	},
+	
+	
+	"oEditSL": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://wtjg-input"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[contains(@class, 'kmc-submit-button')]/button"
+		]
+	},
+	
+	"oImgETFMkt": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='kmc-dbqdxlsz-img'][1]"
+		]
+	},
+	
+	"oLableETFMkt":
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://dropdown-label"
+		]
+	}
+
+
+}

@@ -1,0 +1,28 @@
+{
+	"mControls": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-body']//td[count(descendant::*)=0]"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-footer']/button[text()='确定']"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='modal-footer']/button[text()='取消']"
+		]
+	}
+}

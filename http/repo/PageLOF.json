@@ -1,0 +1,46 @@
+{
+	"oEditJJDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input-')]"
+		]
+	},
+
+	"oTextJJMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oTextSX": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[contains(text(), '上限')]/../following-sibling::div[2]/label"
+		]
+	},
+
+	"oEditSL": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://wtjg-input"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[contains(@class, 'kmc-submit-button')]/button"
+		]
+	}
+}

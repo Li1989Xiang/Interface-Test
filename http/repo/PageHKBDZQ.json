@@ -1,0 +1,19 @@
+{
+	"oTdFirstColumn": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath://(//div[@id='kmc-superTable-scrollArea']/div[1]/table/tbody/tr/td//table/tbody/tr[1]/td[1])[position() < 15]"
+		]
+	},
+
+	"oLabelLoad": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='请稍候...']"
+		]
+	}
+}

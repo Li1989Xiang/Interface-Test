@@ -1,0 +1,28 @@
+{
+	"oEditCode": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://edt_search"
+		]
+	},
+
+	"oTextItem": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_stockName"
+		]
+	},
+
+	"oBtnCancel": 
+	{
+		"in": "NATIVE_APP",
+		"bys": 
+		[
+			"id://txt_search_cancle"
+		]
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"oTitleYZZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='银行转证券']"
+		]
+	},
+
+	"oTitleZZY": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='证券转银行']"
+		]
+	},
+
+	"oMenuBank": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://transaccount_text"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://amount"
+		]
+	},
+
+	"oEditBankPwd": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://yhmm"
+		]
+	},
+
+	"oEditFundPwd": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zjmm"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(@class, 'btn-red')]"
+		]
+	}
+}

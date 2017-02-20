@@ -1,0 +1,7 @@
+[2017-02-16 15:01:57,992][INFO] Runner:38 - [Platform] supported platforms: [http]
+[2017-02-16 15:01:58,524][DEBUG] ExcelReader:49 - open file: file [/Users/csc108/Desktop/lixiang/workspace/Interface_Test/http/data/data.xls]
+[2017-02-16 15:01:58,524][DEBUG] ExcelReader:56 - workbook: org.apache.poi.hssf.usermodel.HSSFWorkbook@1972e513
+[2017-02-16 15:01:58,525][DEBUG] ExcelReader:90 - change to sheet: B01股票买入
+[2017-02-16 15:01:58,533][DEBUG] ExcelReader:123 - data: {类型=正例, url=https://111.13.63.2:9801/api/trade/ptjy/ptyw/login, khbz=80316041, khbzlx=Z, jymm=123321, sessionid=AK566S3236D33232E3, yybdm=5042, token=, lhxx=11111111111,864394010922559,1.0.5.20161219.66099+3.0.2.20161219065646+zxjt,460079225535041,00:27:10:E4:33:20,5CFF3504BF410000,172.16.152.15, rzfs=1, 验证1=证券帐户查询成功} line: 1
+[2017-02-16 15:06:03,831][DEBUG] ExcelReader$ExcelReaderCloser:228 - close workbook: org.apache.poi.hssf.usermodel.HSSFWorkbook@1972e513
+[2017-02-16 15:06:03,964][DEBUG] ExcelWriter$ExcelWriterCloser:230 - report.xls closed

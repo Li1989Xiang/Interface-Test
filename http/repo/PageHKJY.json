@@ -1,0 +1,46 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input')]"
+		]
+	},
+
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+
+	"oEditPrice": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://wtjg-input"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://kmmsl-input"
+		]
+	},
+
+	"oBtnTrade": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='买入' or text()='卖出']"
+		]
+	}
+}

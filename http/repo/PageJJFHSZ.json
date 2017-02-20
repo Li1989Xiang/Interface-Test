@@ -1,0 +1,46 @@
+{
+	"oEditJJDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextJJMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oTextJJJZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://jjdwjz"
+		]
+	},
+
+	"oBtnFHFS": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@id='fhfs']//button"
+		]
+	},
+
+	"oBtnSH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='设置']"
+		]
+	}
+}

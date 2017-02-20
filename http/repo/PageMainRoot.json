@@ -1,0 +1,91 @@
+{
+	"oBtnGPMR": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='买入']"
+		]
+	},
+
+	"oBtnGPMC": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='卖出']"
+		]
+	},
+
+	"oBtnZCCX": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='资产查询']"
+		]
+	},
+
+	"oBtnYZZZ": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='银证转账']"
+		]
+	},
+
+	"oBtnZJDD": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='资金调度']"
+		]
+	},
+
+	"oBtnJJ": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='开放式基金']"
+		]
+	},
+
+	"oBtnETF": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='ETF基金']"
+		]
+	},
+
+	"oBtnLOF": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////label[text()='LOF基金']"
+		]
+	},
+
+	"oBtnGGT": 
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"id://pic_ggt"
+		]
+	},
+
+	"oBtnGengDuo":
+	{
+		"in": "WEBVIEW_PTJY",
+		"bys": 
+		[
+			"xpath:////li[last()]//img[@id='btn_cancel']"
+		]
+	}
+}

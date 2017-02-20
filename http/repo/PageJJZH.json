@@ -1,0 +1,73 @@
+{
+	"oEditZCDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqdm"
+		]
+	},
+
+	"oTextZCMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zqmc"
+		]
+	},
+
+	"oEditZRDM": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zrzqdm"
+		]
+	},
+
+	"oTextZRMC": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zrzqmc"
+		]
+	},
+
+	"oTextZDKZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://kys"
+		]
+	},
+
+	"oEditZHFE": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://price"
+		]
+	},
+
+	"oBtnZH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[text()='转换']"
+		]
+	},
+
+	"oMsgRisk": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////td[text()='基金风险等级与客户等级不匹配,你是否要继续进行交易?']"
+		]
+	}
+}

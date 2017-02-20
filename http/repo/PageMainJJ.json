@@ -1,0 +1,55 @@
+{
+	"oBtnSG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[contains(text(), '申购')]"
+		]
+	},
+
+	"oBtnRG": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[contains(text(), '认购')]"
+		]
+	},
+
+	"oBtnSH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[contains(text(), '赎回')]"
+		]
+	},
+
+	"oBtnDT": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='基金定投']"
+		]
+	},
+
+	"oBtnZH": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='基金转换']"
+		]
+	},
+
+	"oBtnFHSZ": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////label[text()='分红设置']"
+		]
+	}
+}

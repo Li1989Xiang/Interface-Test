@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://up.light.mobile" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://up.light.mobile">
+
+	<xsd:element name="application">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="loginGroupDepth" />
+				<xsd:sequence maxOccurs="unbounded">
+					<xsd:element ref="view" />
+				</xsd:sequence>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+	<xsd:element name="loginGroupDepth" type="xsd:nonNegativeInteger" />
+	<xsd:element name="backElement" type="xsd:string" />
+
+	<xsd:element name="view">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded" minOccurs="0">
+				<xsd:element ref="view" />
+			</xsd:sequence>
+			<xsd:attribute name="name" type="xsd:string" use="required" />
+			<xsd:attribute name="repo" type="xsd:string" use="required" />
+			<xsd:attribute name="checklogin" type="xsd:boolean" 
+				default="false" />
+			<xsd:attribute name="handler" type="xsd:string" />
+			<xsd:attribute name="enable" type="xsd:boolean"
+				default="true" />
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

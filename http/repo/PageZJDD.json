@@ -1,0 +1,55 @@
+{
+	"oBtnCollect": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////em[text()='一键归集']"
+		]
+	},
+
+	"oTextMoneys": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////div[@class='line yhk']//dd[2]"
+		]
+	},
+
+	"oBtnSwitch": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////img[@src='images/pic_zjdb_qieico.svg']"
+		]
+	},
+
+	"oEditNum": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zcje"
+		]
+	},
+
+	"oEditPwd": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"id://zjmm"
+		]
+	},
+
+	"oBtnOK": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////button[contains(text(), '确定')]"
+		]
+	}
+}

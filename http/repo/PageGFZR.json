@@ -1,0 +1,92 @@
+{
+	"oEditCode": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////input[contains(@id, 'zqdm-input-')]"
+		]
+	},
+	
+	"oTextName": 
+	{
+		"in": "WEBVIEW_LAST",
+		"bys": 
+		[
+			"xpath:////p[@class='kmc-zqdm-zqmc']"
+		]
+	},
+	
+	"oEditPrice":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"id://wtjg-input"
+		]
+	},
+	
+	"oEditCJPrice":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"xpath://(//div[@class='kmc-showDataAndUnitWithLabel-value'])[2]/label"
+		]
+	},
+	
+	"oEditNum":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"id://mmsl-input"
+		]
+	},
+
+	"oOppShareholdCode":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"id://hbqmm_dfgddm"
+		]	
+	},
+	
+	"oOppSeat":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"id://hbqmm_dfxw"
+		]
+	},
+	
+	"oDealNum":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"id://hbqmm_cjydh"
+		]
+	},
+	
+	"oBtnOK":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"xpath:////div[@class='kmc-submit-button kmc-btn-buy' or @class='kmc-submit-button kmc-btn-sale']/button[@type='button']"
+		]	
+	},
+	
+	"oBtnBaoJia":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"xpath:////button[text()='报价']"
+		]
+	},
+	
+	"oTableBJItem":
+	{	"in": "WEBVIEW_LAST",
+		"bys":
+		[
+			"xpath:////table[@class='kmc-superTable-row']//td"
+		]
+	}
+	
+}
